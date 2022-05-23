@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Second Year MS in Data Science student at WPI.
+
 <!--
 **Sirsho1997/Sirsho1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
