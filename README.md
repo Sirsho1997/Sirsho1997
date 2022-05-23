@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Social:
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/Mukhopadhyay)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/pranesh-mukhopadhyay-362125170/)  [<img src='https://cdn.iconscout.com/icon/free/png-256/kaggle-3628869-3030009.png' alt='kaggle' height='40'>](https://www.kaggle.com/praneshmukhopadhyay)  
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/Sirsho1997)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>]([(https://www.linkedin.com/in/sirshendu-ganguly)](https://www.linkedin.com/in/sirshendu-ganguly)) 
 
 
 <!-- Got to know about this following part from user @timashan (https://github.com/timashan) -->
