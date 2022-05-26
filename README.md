@@ -34,3 +34,13 @@ Here are some ideas to get you started:
 
 <!-- Got to know about this following part from user @timashan (https://github.com/timashan) -->
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirsho1997&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Sirsho1997" /></div>
+
+</br>
+</br>
+
+### Skills: 
+![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=FFD43B&logo=python&logoColor=306998) 
+![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FFA800?style=for-the-badge&labelColor=white&logo=tensorflow&logoColor=FFA800)
+![Pandas Badge](https://img.shields.io/badge/-Pandas-dd1286?style=for-the-badge&labelColor=white&logo=pandas&logoColor=160762)
+![NumPy Badge](https://img.shields.io/badge/-Numpy-efc53b?style=for-the-badge&labelColor=306998&logo=numpy&logoColor=efc53b)
+![NumPy Badge](https://img.shields.io/badge/-Scipy-0b53a4?style=for-the-badge&labelColor=white&logo=scipy&logoColor=04449c)
