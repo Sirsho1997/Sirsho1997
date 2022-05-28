@@ -6,7 +6,7 @@
 - I also did M.Sc in Computer Science from [St. Xavier's College (Kolkata), India](https://www.sxccal.edu/)
 
 
-Coding has become my hobby too, apart from coding I also enjoy swimming and hitting the gym.
+Coding has become my hobby too, apart from coding I also enjoy swimming, playing chess, and hitting the gym.
 
 
 
