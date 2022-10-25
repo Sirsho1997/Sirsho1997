@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am a 2nd year MS in Data Science student at [Worcester Polytechnic Institute(WPI), Massachussets](https://www.wpi.edu/). 
-- I am currently being advised by [Prof. Lorenzo De Carli](https://web.cs.wpi.edu/~ldecarli/) and [Prof. Fabricio Murai](https://murai.dcc.ufmg.br/) on projects related to Ransomware detection and Money Laundering prevention using the power of AI. 
+- I am currently being advised by [Prof. Fabricio Murai](https://murai.dcc.ufmg.br/) on projects related to Money Laundering prevention using the power of AI. I had also collaborated with [Prof. Lorenzo De Carli](https://web.cs.wpi.edu/~ldecarli/) on projects related to Ransomware Detection. 
 - Before joining WPI, I was working at [Tata Consultancy Services](https://www.tcs.com/) in India.
 - I also did M.Sc in Computer Science from [St. Xavier's College (Kolkata), India](https://www.sxccal.edu/)
 
