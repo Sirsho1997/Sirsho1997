@@ -1,46 +1,41 @@
-### Hi there 👋
+### Hi there! 👋
 
-- I am a 2nd year MS in Data Science student at [Worcester Polytechnic Institute(WPI), Massachussets](https://www.wpi.edu/). 
-- I am currently being advised by [Prof. Fabricio Murai](https://murai.dcc.ufmg.br/) on projects related to Money Laundering prevention using the power of AI. I had also collaborated with [Prof. Lorenzo De Carli](https://web.cs.wpi.edu/~ldecarli/) on projects related to Ransomware Detection. 
-- Before joining WPI, I was working at [Tata Consultancy Services](https://www.tcs.com/) in India.
-- I also did M.Sc in Computer Science from [St. Xavier's College (Kolkata), India](https://www.sxccal.edu/)
+I am Sirshendu Ganguly, a passionate data scientist and a graduate of the Master of Science in Data Science program from Worcester Polytechnic Institute (WPI) in Massachusetts. I am currently working as a Founding Data Scientist at IndicatorLab, a company focused on developing a Data-Centric AI tool to assist investors in maximizing profits by effectively managing gain and risk.
 
+During my time at WPI, I had the opportunity to work with Professor Fabricio Murai on projects related to Money Laundering prevention using the power of AI. I also collaborated with Professor Lorenzo De Carli on projects related to Ransomware Detection.
 
-Coding has become my hobby too, apart from coding I also enjoy swimming, playing chess, and hitting the gym.
+Prior to my graduate studies, I gained valuable industry experience as an Assistant System Engineer at Tata Consultancy Services (TCS) in India. I also hold a M.Sc. degree in Computer Science from St. Xavier's College, Kolkata, India.
 
+Apart from my professional pursuits, I have a strong passion for coding, and I actively engage in various coding projects. In my free time, I enjoy swimming, playing chess, and hitting the gym to stay active and maintain a healthy lifestyle.
 
+#### Education and Experience:
 
-<!--
-**Sirsho1997/Sirsho1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Master of Science in Data Science (Worcester Polytechnic Institute)
+- Bachelor of Science in Computer Science (St. Xavier's College, Kolkata, India)
+- Former Assistant System Engineer at Tata Consultancy Services (TCS)
 
-Here are some ideas to get you started:
+#### Research Interests:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Money Laundering Prevention
+- Artificial Intelligence in the Financial Industry
 
-### Social:
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/Sirsho1997)
-[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sirshendu-ganguly)
+#### Current Work:
 
-<!--[<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>]([(https://www.linkedin.com/in/sirshendu-ganguly)](https://www.linkedin.com/in/sirshendu-ganguly)  -->
+As a Founding Data Scientist at IndicatorLab, I am dedicated to utilizing my expertise in data science and AI to provide valuable solutions for investors in the financial industry. Our focus is on developing a Data-Centric AI tool that assists investors in maximizing profits by effectively managing gain and risk.
 
+#### Contact Me:
 
-<!-- Got to know about this following part from user @timashan (https://github.com/timashan) -->
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirsho1997&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Sirsho1997" /></div>
+- GitHub: [Sirsho1997](https://github.com/Sirsho1997)
+- LinkedIn: [Sirshendu Ganguly](https://www.linkedin.com/in/sirshendu-ganguly)
 
-</br>
-</br>
+Feel free to connect with me on GitHub or LinkedIn!
 
-### Skills: 
-![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=FFD43B&logo=python&logoColor=306998) 
-![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FFA800?style=for-the-badge&labelColor=white&logo=tensorflow&logoColor=FFA800)
-![Pandas Badge](https://img.shields.io/badge/-Pandas-dd1286?style=for-the-badge&labelColor=white&logo=pandas&logoColor=160762)
-![NumPy Badge](https://img.shields.io/badge/-Numpy-efc53b?style=for-the-badge&labelColor=306998&logo=numpy&logoColor=efc53b)
-![NumPy Badge](https://img.shields.io/badge/-Scipy-0b53a4?style=for-the-badge&labelColor=white&logo=scipy&logoColor=04449c)
+#### Skills:
+
+- Python ![Python Badge](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=FFD43B&logo=python&logoColor=306998)
+- TensorFlow ![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-FFA800?style=for-the-badge&labelColor=white&logo=tensorflow&logoColor=FFA800)
+- Pandas ![Pandas Badge](https://img.shields.io/badge/-Pandas-dd1286?style=for-the-badge&labelColor=white&logo=pandas&logoColor=160762)
+- NumPy ![NumPy Badge](https://img.shields.io/badge/-NumPy-efc53b?style=for-the-badge&labelColor=306998&logo=numpy&logoColor=efc53b)
+- SciPy ![NumPy Badge](https://img.shields.io/badge/-SciPy-0b53a4?style=for-the-badge&labelColor=white&logo=scipy&logoColor=04449c)
+
+Thank you for visiting my GitHub profile!
