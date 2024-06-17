@@ -27,6 +27,7 @@ As a Founding Data Scientist at IndicatorLab, I am dedicated to utilizing my exp
 
 - GitHub: [Sirsho1997](https://github.com/Sirsho1997)
 - LinkedIn: [Sirshendu Ganguly](https://www.linkedin.com/in/sirshendu-ganguly)
+- Website: [https://sirshenduganguly.netlify.app/](https://sirshenduganguly.netlify.app/)
 
 Feel free to connect with me on GitHub or LinkedIn!
 
